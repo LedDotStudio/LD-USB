@@ -19,4 +19,4 @@ QA:
 
 LEDDot Studio
 
-email::StudioLedDot@gmail.com
+email:StudioLedDot@gmail.com
